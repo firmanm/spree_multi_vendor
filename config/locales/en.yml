@@ -2,32 +2,32 @@ en:
   activerecord:
     models:
       spree/vendor:
-        one: Vendor
-        other: Vendors
+        one: Mitra Lokalsayur
+        other: Mitra Lokalsayur
     attributes:
       spree/vendor:
-        about_us: About us
-        contact_us: Contact us
-        image: Image
-        name: name
-        state: state
+        about_us: Tentang Kami
+        contact_us: Hubungi Kami
+        image: Gambar
+        name: nama
+        state: Kota
         created_at: created at
-        priority: priority
+        priority: prioritas
   spree:
     back_to_vendors_list: Back To Vendors List
-    edit_vendor: Edit Vendor
-    new_vendor: New Vendor
+    edit_vendor: Edit Mitra
+    new_vendor: Bikin Mitra baru
     only_alphanumeric_chars: should contain only letters and digits
     order_mailer:
       vendor_notification_email:
-        dear_vendor: Dear Vendor,
-        subject: Vendor notification
-        thanks: Thanks
-    vendor: Vendor
-    vendor_name: Vendor Name
+        dear_vendor: halo Mitra Lokalsayur,
+        subject: Pemberitahuan Mitra Lokalsayur
+        thanks: Terimakasih
+    vendor: Mitra Lokalsayur
+    vendor_name: Nama Mitra
     vendor_states:
-      active: Active
+      active: Actif
       blocked: Blocked
       pending: Pending
     admin:
-      commission: Commission
+      commission: Komisi
