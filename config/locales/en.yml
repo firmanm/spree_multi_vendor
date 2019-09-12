@@ -6,17 +6,17 @@ en:
         other: Mitra Lokalsayur
     attributes:
       spree/vendor:
-        about_us: Tentang Kami
-        contact_us: Hubungi Kami
-        image: Gambar
+        about_us: Deskripsi
+        contact_us: Kontak
+        image: Profil
         name: nama
-        state: Kota
+        state: Status
         created_at: created at
         priority: prioritas
   spree:
     back_to_vendors_list: Back To Vendors List
     edit_vendor: Edit Mitra
-    new_vendor: Bikin Mitra baru
+    new_vendor: Buat Mitra baru
     only_alphanumeric_chars: should contain only letters and digits
     order_mailer:
       vendor_notification_email:
