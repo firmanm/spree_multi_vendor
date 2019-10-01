@@ -11,13 +11,13 @@ en:
         image: Profil
         name: nama
         state: Status
-        created_at: created at
+        created_at: Dibuat pada
         priority: prioritas
   spree:
-    back_to_vendors_list: Back To Vendors List
+    back_to_vendors_list: Kembali ke Daftar Mitra Lokalsayur
     edit_vendor: Edit Mitra
     new_vendor: Buat Mitra baru
-    only_alphanumeric_chars: should contain only letters and digits
+    only_alphanumeric_chars: hanya berisi huruf dan angka
     order_mailer:
       vendor_notification_email:
         dear_vendor: halo Mitra Lokalsayur,
@@ -26,8 +26,8 @@ en:
     vendor: Mitra Lokalsayur
     vendor_name: Nama Mitra
     vendor_states:
-      active: Actif
-      blocked: Blocked
-      pending: Pending
+      active: Aktif
+      blocked: Diblokir (Tidak Aktif)
+      pending: Menunggu Moderasi
     admin:
       commission: Komisi
